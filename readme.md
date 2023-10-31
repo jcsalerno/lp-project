@@ -9,7 +9,6 @@ A estrutura de arquivos deste projeto é organizada da seguinte forma:
 - `index.html`: O arquivo HTML principal que define a estrutura da página de destino.
 - `style.css`: O arquivo CSS para estilizar a página.
 - `images/`: Uma pasta de imagens usadas na página.
-- `fonts/`: Uma pasta para fontes usadas no projeto.
 
 ## Ainda está em construção
 ![Alt text](imagens/foto-para-o-readme-md.png)

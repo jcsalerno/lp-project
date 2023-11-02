@@ -10,6 +10,6 @@ A estrutura de arquivos deste projeto é organizada da seguinte forma:
 - `style.css`: O arquivo CSS para estilizar a página.
 - `images/`: Uma pasta de imagens usadas na página.
 
-## Ainda está em construção
+## Foto final do projeto
 
-![Alt text](image.png)
+![foto final do projeto](imagens/foto-final.png)

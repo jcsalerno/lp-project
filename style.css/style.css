@@ -283,6 +283,77 @@ section.secao1 .container {
   border-radius: 20px;
 }
 
+section.contato {
+  padding: 40px 0;
+  text-align: center;
+  background-color: #f9cce9;
+}
+
+section.contato h1 {
+  font-size: 50px;
+}
+
+section.contato form {
+  width: 100%;
+  position: relative;
+  left: 20%;
+}
+
+.contato input[type="text"],
+.contato input[type="email"] {
+  width: 100%;
+  height: 50px;
+  margin: 20px 0;
+  border-radius: 10px;
+  background: #fcfdff;
+  border: 1px solid #c3cce8;
+  padding-left: 10px;
+}
+
+.contato textarea {
+  width: 100%;
+  height: 120px;
+  margin: 20px 0;
+  border-radius: 10px;
+  background: #fcfdff;
+  border: 1px solid #c3cce8;
+  padding: 10px;
+  resize: vertical;
+}
+
+.contato input[type="submit"] {
+  width: 100%;
+  height: 50px;
+  display: block;
+  cursor: pointer;
+  border: 0;
+  background: #ff703d 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+}
+
+footer {
+  padding: 10px 0;
+  background: #7431aab2;
+}
+
+footer .center .items-menu a {
+  color: white;
+}
+footer .contact-btn {
+  color: white;
+}
+footer .items-menu {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.text-footer {
+  width: 50%;
+  padding: 8px 0;
+}
+
 @media screen and (max-width: 768px) {
   header {
     width: 100%;
